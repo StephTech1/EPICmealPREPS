@@ -1,0 +1,38 @@
+/*add colour to background to take brightness off the white - color and font and align text*/
+body {color: green; 
+text-align: center;
+font-family: Arial;
+font-size: 16pt;
+background-color: whitesmoke;
+}
+
+h1 {
+  color: green; 
+  text-align: center;
+  font-family: Arial;
+  font-size:25pt;
+  background-color: yellow;
+  }
+
+h2 {
+  color: green; 
+  text-align:center;
+  font-family:Arial;
+  font-size:20pt;
+  background-color: black;
+  }
+/*underline and center headings*/
+h3 {
+    text-decoration: underline;
+    text-align: center;
+  }
+/* add padding around images for a clean look */
+  img {display: block;
+  margin-left:auto;
+  margin-right:auto;
+  padding: 10px;
+  }
+input {
+  colour: green;
+  font-family: Arial;
+}
